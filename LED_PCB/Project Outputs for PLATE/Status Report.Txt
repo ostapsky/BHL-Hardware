@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PLATE.PrjPcb]
+   Generated File[LED_BOARD.GTL]
+   Generated File[LED_BOARD.RUL]
+   Generated File[LED_BOARD.EXTREP]
+   Generated File[LED_BOARD.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:42:23 On 08.07.2015
