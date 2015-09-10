@@ -1,0 +1,18 @@
+*************************************************************
+FileName = BtnBoard.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : BtnBoard.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
